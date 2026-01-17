@@ -28,6 +28,3 @@ con Java desde hace aproximadamente 4 meses.
 - Ejercicios prácticos de lógica
 
 ---
-
-## Estructura del repositorio
-
