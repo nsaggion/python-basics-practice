@@ -3,10 +3,6 @@
 Repositorio de ejercicios y prácticas en Python realizados como parte de mi
 aprendizaje inicial del lenguaje.
 
-Actualmente estoy comenzando con Python, mientras curso el ciclo de
-Desarrollo de Aplicaciones Multiplataforma (DAM), donde trabajo principalmente
-con Java desde hace aproximadamente 4 meses.
-
 ---
 
 ## Objetivo del repositorio
