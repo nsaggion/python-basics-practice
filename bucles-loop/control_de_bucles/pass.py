@@ -11,3 +11,11 @@ Recorre cada carácter y:
 - Si el carácter es una consonante, muestra la consonante por pantalla
 Al final, el programa habrá impreso solo las consonantes.
 """
+
+texto = input ("Inserte una palabra una palabra en minuscula; ")
+
+for letra in texto:
+    if letra in "a e i o u":
+        pass
+    else:
+        print(letra)
