@@ -1,6 +1,6 @@
 """
 Ejercicio de práctica en Python
-Tema: control_de_bucles
+Tema: Listas
 Nivel: Básico
 """
 """
