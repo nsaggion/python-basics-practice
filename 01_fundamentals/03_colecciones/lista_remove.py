@@ -20,11 +20,8 @@ frutas = ["manzana", "banana", "naranja", "pera"]
 print ("Llista de frutas: ",frutas)
 nuevaFruta = str(input("Ingrese el nombre de una fruta: "))
 
-for i in range (0, len(frutas)):
-    if nuevaFruta in frutas[i]:
-        frutas.remove(nuevaFruta)
-        print (frutas)
-        break
-    else:
-        print("La fruta",nuevaFruta,"no se encontró.")
-        break
+if nuevaFruta in frutas:
+    frutas.remove(nuevaFruta)
+    print ("Llista actualizada:",frutas)
+else:
+    print("La fruta",nuevaFruta,"no se encontró.")
