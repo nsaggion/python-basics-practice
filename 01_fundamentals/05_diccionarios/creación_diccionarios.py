@@ -1,6 +1,6 @@
 """
 Ejercicio de práctica en Python
-Tema: Tupla
+Tema: Diccionario
 Nivel: Básico
 """
 """
