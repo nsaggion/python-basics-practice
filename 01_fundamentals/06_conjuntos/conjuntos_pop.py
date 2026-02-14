@@ -14,3 +14,8 @@ Muestra:
 - El elemento eliminado.
 - El conjunto actualizado.
 """
+letras = {"a","b","c","d"}
+print("Conjunto actual:",letras)
+letra = letras.pop()
+print("Elemento eliminado:",letra)
+print("Conjunto actualizado:",letras)
