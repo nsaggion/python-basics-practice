@@ -4,6 +4,7 @@ Tema: Conjuntos
 Nivel: Básico
 """
 """
+Enunciado:
 Crea un conjunto llamado numeros con los siguientes valores:
 - 1, 2, 3, 4, 4, 5, 2
 Muestra el conjunto por pantalla.
