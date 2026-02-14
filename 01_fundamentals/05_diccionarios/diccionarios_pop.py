@@ -18,3 +18,10 @@ Si la clave existe:
 Si la clave no existe:
 - Muestra un mensaje de error.
 """
+usuario = {"email":"usuario132@gmail.com","edad":23,"pais":"España"}
+clave = input("Por favor ingrese una clave: ")
+if clave in usuario:
+    print("El valor eliminado es:",usuario.pop(clave))
+    print(usuario)
+else:
+    print("No encontrado")
