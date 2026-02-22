@@ -4,10 +4,15 @@ Tema: Varibales.
 Nivel: Medio.
 """
 """
-Crea una variable global llamada contador con valor 0.
-Crea una función llamada incrementar.
-Dentro de la función:
-- Incrementa el valor de contador en 1.
-- Llama a la función varias veces.
-Muestra el valor final de contador.
+Enunciado:
+Crea una variable global llamada mensaje con el valor:
+- "Mensaje global"
+Crea una función llamada mostrar() que:
+Cree una variable local también llamada mensaje con el valor:
+- "Mensaje local"
+Imprima el valor de la variable dentro de la función.
+Fuera de la función:
+- Imprime el valor de mensaje antes de llamar a la función.
+Llama a la función.
+Imprime nuevamente el valor de mensaje.
 """
