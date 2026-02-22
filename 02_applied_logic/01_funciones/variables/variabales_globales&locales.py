@@ -16,3 +16,10 @@ Fuera de la función:
 Llama a la función.
 Imprime nuevamente el valor de mensaje.
 """
+mensaje = "Mensaje global"
+def mostrar():
+    mensaje = "Mensaje local"
+    print(mensaje)
+print(mensaje)
+mostrar()
+print(mensaje)
