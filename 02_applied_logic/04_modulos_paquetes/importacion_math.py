@@ -1,5 +1,7 @@
 """
-
+Ejercicio de práctica en Python.
+Tema: Importacion.
+Nivel: Medio.
 """
 """
 Enunciado: 
@@ -14,4 +16,4 @@ import math
 num = int(input("Ingrese un numero porfavor: "))
 raizQuadrada = math.sqrt(num)
 elevado = math.pow(num,2)
-print(f"La raíz cuadrada de {num} és {raizQuadrada} y elevado al cuadrado és {elevado}")
+print(f"La raíz cuadrada de {num} és {raizQuadrada} y el numero elevado al cuadrado és {elevado}")
